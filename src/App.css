@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+#nav {
+  margin: 50px auto;
+  height: 40px;
+  background-color: rgb(62, 152, 236);
+}
+
+#nav ul {
+  list-style: none;
+  margin-left: 50px;
+}
+
+#nav li {
+  display: inline;                
+}
+
+#nav a {
+  line-height: 40px;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+#nav a:hover {
+  background-color: rgb(44, 4, 203);
+}
