@@ -1,4 +1,4 @@
-# 手戳一个简易版的 KeepAlive
+# 手搓一个简易版的 KeepAlive
 
 ## 前言
 虽然已有很多 keepAlive 的模块直接引入就能用，比如: react-activation
